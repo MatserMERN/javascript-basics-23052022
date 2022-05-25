@@ -341,6 +341,9 @@ Means function existing in many forms.
 In programming, the ability for objects to present the same interface 
 for different behaviour
 
+- Function overriding 
+- Function overloading - not possible
+
 Error Handling
 ---------------
 Helps us to handle the errors (runtime), for accessing undefined variables 
